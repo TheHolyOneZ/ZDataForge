@@ -1,0 +1,12 @@
+[package]
+name = "forge-ipc"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+forge-core = { path = "../forge-core" }
+forge-codegen = { path = "../forge-codegen" }
+hex = "0.4"
+base64 = "0.22"
