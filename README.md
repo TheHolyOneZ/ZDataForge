@@ -34,8 +34,7 @@ ZDataForge collapses that whole habit into one native app. Everything runs local
 
 <div align="center">
 
-<!-- Replace with a real screenshot once available -->
-<img src="base.png" width="720" alt="ZDataForge interface" />
+<img src="image.png" width="720" alt="ZDataForge interface" />
 
 </div>
 
